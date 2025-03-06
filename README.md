@@ -3,6 +3,7 @@
 ## 📌 Project Overview
 Rescue Path is a web-based emergency assistance platform that helps users find the **nearest hospitals, medical centers, and emergency contacts** based on their location. It also provides **disaster awareness resources** through embedded YouTube videos without redirecting users. The platform aims to enhance **quick decision-making and access to life-saving resources** in critical situations.
 
+
 ## 🎯 Key Features
 - 🌍 **Location-Based Hospital Search**: Users can find nearby hospitals using browser location or manual entry.
 - 🆘 **Emergency Contact Information**: Displays emergency numbers relevant to the user's region/country.
